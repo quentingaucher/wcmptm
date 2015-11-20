@@ -267,6 +267,10 @@ img + .brand_name {
 }
 
 /*==================      Vide     ======================*/
+.mc-field-group{
+  color: #000000;
+}
+
 .vide {
   padding-top: 50px;
   padding-bottom: 50px;
