@@ -267,6 +267,10 @@ img + .brand_name {
 }
 
 /*==================      Vide     ======================*/
+option{
+  color: #000000;
+}
+
 .mc-field-group{
   color: #000000;
 }
