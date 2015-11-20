@@ -638,7 +638,7 @@ header {
   background: #333333;
   text-align: center;
 }
-header *:not(.btn) {
+header *:not(.mc-field-group) {
   color: #FFF;
 }
 
