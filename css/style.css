@@ -250,7 +250,7 @@ p + h3 {
 =========================================================*/
 /*==================     Brand     ======================*/
 img + .brand_name {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 .brand_name {
   word-spacing: -12px;
@@ -268,8 +268,8 @@ img + .brand_name {
 
 /*==================      Vide     ======================*/
 .vide {
-  padding-top: 117px;
-  padding-bottom: 170px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background: #333333;
 }
 .vide_content {
